@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @usamaExe
-- 👀 I’m interested in node js and full stack 
-- 🌱 I’m currently learning react js
-- 💞️ I’m looking to collaborate on projects or internship for react and node
+- 👀 I’m  full stack developer
 - 📫 How to reach me +923025059077 whatsapp usama_in linkedin
 
 <!---
